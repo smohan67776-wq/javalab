@@ -22,4 +22,5 @@ public class ShapeDemo {
         System.out.println("Square Area (static int) = " + Square.area(6));
         System.out.println("Circle Area (static) = " + Circle.area(4));
     }
+
 }
